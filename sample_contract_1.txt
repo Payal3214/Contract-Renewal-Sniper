@@ -1,0 +1,15 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+This Master Subscription Agreement ("Agreement") is entered into by and between CloudStack Analytics Inc. ("Vendor") and Customer, effective as of November 10, 2025.
+
+1. TERM
+This Agreement shall commence on December 20, 2025 and continue for an initial term of twelve (12) months, ending on December 20, 2026 ("Initial Term"). This Agreement shall automatically renew for successive twelve (12) month periods unless either party provides written notice of non-renewal at least sixty (60) days prior to the end of the then-current term.
+
+2. FEES
+Customer shall pay Vendor an annual subscription fee of $48,000.00 per year, payable in advance. Vendor reserves the right to increase fees by up to 8% upon each renewal term with thirty (30) days' notice.
+
+3. TERMINATION
+Either party may terminate this Agreement for cause upon thirty (30) days' written notice if the other party materially breaches this Agreement and fails to cure such breach.
+
+4. CANCELLATION
+To cancel auto-renewal, Customer must send written notice to renewals@cloudstackanalytics.com no later than sixty (60) days before the renewal date referenced in Section 1.
