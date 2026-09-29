@@ -1,5 +1,7 @@
 # 🎯 Contract Renewal Sniper
 
+Live Link: https://contract-renewal-sniper-yquqdkqzieyor8csmnr6lr.streamlit.app/
+
 An AI-assisted agent that reads vendor/SaaS contracts (PDF, DOCX, TXT), extracts the
 clauses that actually matter — **renewal date, auto-renewal language, cancellation
 notice window, and price** — and turns them into a risk-sorted action list so nothing
